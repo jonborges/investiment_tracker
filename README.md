@@ -1,6 +1,3 @@
-<p align="center" width="100%">
-    <img width="50%" src="https://github.com/JonB/demo/blob/main/images/stock-market.jpg"> 
-</p>
 
 <h3 align="center">
   Backend de um Sistema de Gerenciamento de Usuários e Contas
